@@ -1,0 +1,329 @@
+Imiê i nazwisko:
+
+Data:
+
+Semestr:
+
+Stolice - sprawdzian (Formularz - 3)
+
+1. Jak¹ stolicê ma pañstwo Grecja?
+
+A. Skopje
+B. Moskwa
+C. Astana
+D. Ateny
+
+2. Jak¹ stolicê ma pañstwo W³ochy?
+
+A. Luksemburg
+B. Lublana
+C. Rzym
+D. Bruksela
+
+3. Jak¹ stolicê ma pañstwo Dania?
+
+A. Dublin
+B. Bukareszt
+C. Kopenhaga
+D. Kijów
+
+4. Jak¹ stolicê ma pañstwo Irlandia?
+
+A. Dublin
+B. Oslo
+C. Wiedeñ
+D. Rzym
+
+5. Jak¹ stolicê ma pañstwo Chorwacja?
+
+A. Zagrzeb
+B. Bratys³awa
+C. Belgrad
+D. Warszawa
+
+6. Jak¹ stolicê ma pañstwo Rumunia?
+
+A. Zagrzeb
+B. Moskwa
+C. Amsterdam
+D. Bukareszt
+
+7. Jak¹ stolicê ma pañstwo Finlandia?
+
+A. Watykan
+B. Helsinki
+C. Moskwa
+D. Reykjavik
+
+8. Jak¹ stolicê ma pañstwo Norwegia?
+
+A. Sztokholm
+B. Lublana
+C. Oslo
+D. Rzym
+
+9. Jak¹ stolicê ma pañstwo Czarnogóra?
+
+A. Podgorica
+B. Berlin
+C. Reykjavik
+D. Andora
+
+10. Jak¹ stolicê ma pañstwo S³owacja?
+
+A. Helsinki
+B. Bratys³awa
+C. Bratys³awa
+D. Ateny
+
+11. Jak¹ stolicê ma pañstwo Liechtenstein?
+
+A. Rzym
+B. Vaduz
+C. Kijów
+D. Kopenhaga
+
+12. Jak¹ stolicê ma pañstwo Portugalia?
+
+A. Wiedeñ
+B. Lizbona
+C. Lizbona
+D. Ateny
+
+13. Jak¹ stolicê ma pañstwo Malta?
+
+A. Tallin
+B. Andora
+C. Valletta
+D. Watykan
+
+14. Jak¹ stolicê ma pañstwo Bu³garia?
+
+A. Reykjavik
+B. Pary¿
+C. Sofia
+D. Rzym
+
+15. Jak¹ stolicê ma pañstwo Szwajcaria?
+
+A. San Marino
+B. Berno
+C. Wiedeñ
+D. Bratys³awa
+
+16. Jak¹ stolicê ma pañstwo Szwecja?
+
+A. Pary¿
+B. Luksemburg
+C. Sztokholm
+D. Bruksela
+
+17. Jak¹ stolicê ma pañstwo Islandia?
+
+A. Bukareszt
+B. Reykjavik
+C. Wilno
+D. Watykan
+
+18. Jak¹ stolicê ma pañstwo Turcja?
+
+A. Ankara
+B. Wiedeñ
+C. Andora
+D. Lizbona
+
+19. Jak¹ stolicê ma pañstwo Watykan?
+
+A. Praga
+B. Londyn
+C. Lizbona
+D. Watykan
+
+20. Jak¹ stolicê ma pañstwo Czechy?
+
+A. Bratys³awa
+B. Pary¿
+C. Praga
+D. Sztokholm
+
+21. Jak¹ stolicê ma pañstwo Estonia?
+
+A. Belgrad
+B. Tallin
+C. Warszawa
+D. Oslo
+
+22. Jak¹ stolicê ma pañstwo £otwa?
+
+A. Warszawa
+B. Ryga
+C. Vaduz
+D. Rzym
+
+23. Jak¹ stolicê ma pañstwo Serbia?
+
+A. Bukareszt
+B. San Marino
+C. Belgrad
+D. Lublana
+
+24. Jak¹ stolicê ma pañstwo Wêgry?
+
+A. Budapeszt
+B. Bukareszt
+C. Wilno
+D. Reykjavik
+
+25. Jak¹ stolicê ma pañstwo Kazachstan?
+
+A. Sztokholm
+B. Miñsk
+C. Bukareszt
+D. Astana
+
+26. Jak¹ stolicê ma pañstwo San Marino?
+
+A. Praga
+B. Tallin
+C. San Marino
+D. Amsterdam
+
+27. Jak¹ stolicê ma pañstwo Andora?
+
+A. Andora
+B. Andora
+C. Ryga
+D. Rzym
+
+28. Jak¹ stolicê ma pañstwo Rosja?
+
+A. Wilno
+B. Valletta
+C. Moskwa
+D. Moskwa
+
+29. Jak¹ stolicê ma pañstwo Austria?
+
+A. Kijów
+B. Skopje
+C. Kijów
+D. Wiedeñ
+
+30. Jak¹ stolicê ma pañstwo Belgia?
+
+A. Watykan
+B. Ryga
+C. Lizbona
+D. Bruksela
+
+31. Jak¹ stolicê ma pañstwo Macedonia?
+
+A. Berlin
+B. Warszawa
+C. Skopje
+D. Andora
+
+32. Jak¹ stolicê ma pañstwo Luksemburg?
+
+A. Vaduz
+B. Luksemburg
+C. Ateny
+D. Bratys³awa
+
+33. Jak¹ stolicê ma pañstwo Mo³dawia?
+
+A. Kopenhaga
+B. Kopenhaga
+C. Lizbona
+D. Kiszyniów
+
+34. Jak¹ stolicê ma pañstwo Ukraina?
+
+A. Moskwa
+B. Kijów
+C. Kopenhaga
+D. Tirana
+
+35. Jak¹ stolicê ma pañstwo Niemcy?
+
+A. Warszawa
+B. Valletta
+C. Berlin
+D. Sarajewo
+
+36. Jak¹ stolicê ma pañstwo Monako?
+
+A. Bratys³awa
+B. Monako
+C. Oslo
+D. Kijów
+
+37. Jak¹ stolicê ma pañstwo Hiszpania?
+
+A. Madryt
+B. Budapeszt
+C. Budapeszt
+D. Valletta
+
+38. Jak¹ stolicê ma pañstwo Albania?
+
+A. Dublin
+B. Praga
+C. Tirana
+D. San Marino
+
+39. Jak¹ stolicê ma pañstwo Bia³oruœ?
+
+A. Kopenhaga
+B. Miñsk
+C. Kijów
+D. Tirana
+
+40. Jak¹ stolicê ma pañstwo Francja?
+
+A. Praga
+B. Rzym
+C. Valletta
+D. Pary¿
+
+41. Jak¹ stolicê ma pañstwo Wielka Brytania?
+
+A. Sarajewo
+B. San Marino
+C. Londyn
+D. Londyn
+
+42. Jak¹ stolicê ma pañstwo Holandia?
+
+A. Kijów
+B. Amsterdam
+C. Monako
+D. Ankara
+
+43. Jak¹ stolicê ma pañstwo Polska?
+
+A. Kopenhaga
+B. Ankara
+C. Berno
+D. Warszawa
+
+44. Jak¹ stolicê ma pañstwo Boœnia i Hercegowina?
+
+A. Sarajewo
+B. Belgrad
+C. Madryt
+D. Budapeszt
+
+45. Jak¹ stolicê ma pañstwo Litwa?
+
+A. Berlin
+B. Ankara
+C. Wilno
+D. Tirana
+
+46. Jak¹ stolicê ma pañstwo S³owenia?
+
+A. Bukareszt
+B. Dublin
+C. Lizbona
+D. Lublana
